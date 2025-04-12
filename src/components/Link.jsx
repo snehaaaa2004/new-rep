@@ -16,7 +16,7 @@ const Link = () => {
     
     
 
-    // Optionally clear form
+    
     setBlogName('');
     setDescription('');
     setAuthorName('');
